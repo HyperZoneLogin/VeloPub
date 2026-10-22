@@ -1,0 +1,4 @@
+[submodule "velocity"]
+	path = velocity
+	url = https://github.com/PaperMC/Velocity.git
+	branch = dev/4.0.0
